@@ -150,3 +150,24 @@ step needed
 spring.mail.username=your-gmail@gmail.com
 spring.mail.password=your-16-char-app-password
 app.mail.from=your-gmail@gmail.com
+
+
+✔ Roles assigned
+✔ Role-based API restriction
+✔ Role inside JWT
+✔ SecurityConfig rules
+✔ Authorization handling
+✔ Refresh token
+✔ Password reset
+✔ Email service
+✔ Audit logging
+✔ Request logging
+✔ Swagger UI
+✔ CORS config
+✔ API versioning (/api/v1/)
+✔ BCrypt password hashing
+✔ Session tracking
+✔ Global exception handling
+✔ Input validation
+✔ Custom UserDetails
+✔ Actuator health check
